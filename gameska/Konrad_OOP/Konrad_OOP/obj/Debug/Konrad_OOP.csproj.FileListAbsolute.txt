@@ -1,0 +1,7 @@
+D:\PRG\gameska\Konrad_OOP\Konrad_OOP\bin\Debug\Konrad_OOP.exe.config
+D:\PRG\gameska\Konrad_OOP\Konrad_OOP\bin\Debug\Konrad_OOP.exe
+D:\PRG\gameska\Konrad_OOP\Konrad_OOP\bin\Debug\Konrad_OOP.pdb
+D:\PRG\gameska\Konrad_OOP\Konrad_OOP\obj\Debug\Konrad_OOP.csproj.AssemblyReference.cache
+D:\PRG\gameska\Konrad_OOP\Konrad_OOP\obj\Debug\Konrad_OOP.csproj.CoreCompileInputs.cache
+D:\PRG\gameska\Konrad_OOP\Konrad_OOP\obj\Debug\Konrad_OOP.exe
+D:\PRG\gameska\Konrad_OOP\Konrad_OOP\obj\Debug\Konrad_OOP.pdb
