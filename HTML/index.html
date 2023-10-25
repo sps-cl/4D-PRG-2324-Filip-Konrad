@@ -9,11 +9,38 @@
 </head>
 <body>
     <h1>Opakovani HTML</h1>
+
     <p><strong>Lorem</strong> <br>ipsum dolor sit, amet consectetur adipisicing elit. 
         Ipsum accusantium rerum, 
         cumque quibusdam temporibus fuga doloribus voluptate tempora voluptatem 
         rem enim, explicabo dolore cupiditate neque libero soluta accusamus id 
         dolores?</p>
-    
+    <nav>Domů</nav>
+    <a href="kontakty.html">Kontakty</a>
+    <img src="image.png" width="150px" height="400px" alt="Stitch Drawing" title="Stitch Drawing">
+    <table>
+        <tr>
+            <th>1. sloupec</th>
+            <th>2. sloupec</th>
+            <th>3. sloupec</th>
+        </tr>
+        <tr>
+            <td>1 </td>
+            <td>2 </td>
+            <td>3 </td>
+        </tr>
+        <tr>
+            <td colspan="3">1 </td>
+            
+        </tr>
+        <tr>
+            <td>1 </td>
+            <td colspan="2">2 </td>
+            
+        </tr>
+    </table>
+    <input type="button" value="Tlacitko" onclick="alert(Number(document.getElementById('vstup 1').value))">
+    <input id="vstup 1" type="number" value="1" onchange="alert(this.value)">
+    <input id="vstup 2" type="number" value="1" onchange="alert(this.value)">
 </body>
 </html>
